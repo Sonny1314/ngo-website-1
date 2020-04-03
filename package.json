@@ -1,0 +1,16 @@
+{
+  "name": "ngo-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "homepage":"https://sonny1314.github.io/ngo-website-1",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
